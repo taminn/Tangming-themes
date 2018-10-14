@@ -1,0 +1,167 @@
+{
+    "$schema": "vscode://schemas/color-theme",
+    "name": "theme-tangming",
+    "colors": {
+        
+        ////////////////////////////////////////////////////////////////////////
+        "editor.background": "#fafaf9",
+        "editor.foreground": "#24292e",
+        "editorLineNumber.foreground": "#ccc",
+        "editorIndentGuide.background": "#eee",
+        "editorBracketMatch.background": "#f1f8ff",
+        "editorBracketMatch.border": "#c8e1ff",
+        "editor.lineHighlightBackground": "#fffbdd",
+        "focusBorder": "#fafbfc",
+
+        // Activitybar
+        "activityBar.background": "#24292e",
+        //"activityBar.background": "#e0e0e0",
+        //"activityBar.foreground": "#000000",
+
+        // Sidebar
+        "sideBar.background": "#f7f7f7",
+        "sideBar.foreground": "#586069",
+        "sideBar.border": "#f7f7f7",
+        "sideBarTitle.foreground": "#24292e", 
+        "sideBarSectionHeader.background": "#eee",
+        "sideBarSectionHeader.foreground": "#24292e", 
+
+        // Statusbar
+        "statusBar.foreground": "#24292e",
+        "statusBar.background": "#fafbfc",
+        "statusBar.border": "#ddd",
+        "statusBar.noFolderForeground": "#24292e",
+        "statusBar.noFolderBackground": "#fafbfc",
+        "statusBar.debuggingForeground": "#24292e",
+        "statusBar.debuggingBackground": "#fafbfc",
+
+        // Notification
+        "notification.background": "#54a3ff",
+        //My
+        "tab.border":"#f3f3f3",
+        "editorGroupHeader.tabsBackground": "#f3f3f3",  //剩余的页面栏
+        "tab.inactiveBackground": "#f3f3f3",  //未打开的标题栏
+        "list.activeSelectionBackground":"#afcddb",
+        //////////////////////////////////////////////////////////
+        
+        
+    },
+    "tokenColors": [
+        {
+            "scope": "emphasis",
+            "settings": {
+                "fontStyle": "italic"
+            }
+        },
+        {
+            "scope": "strong",
+            "settings": {
+                "fontStyle": "bold"
+            }
+        },
+        {
+            "scope": "comment",
+            "settings": {
+                "foreground": "#6a737d"
+            }
+        },
+        {
+            "scope": "string",
+            "settings": {
+                "foreground": "#005f96"
+            }
+        },
+        {
+            "scope": [
+                "constant.numeric",
+                "constant.language.null",
+                "variable.language.this",
+                "support.type.primitive",
+                "support.function",
+                "support.variable.dom",
+                "support.variable.property",
+                "support.variable.property",
+
+                // CSS
+                "meta.property-name",
+                "meta.property-value",
+
+                // Handlebars
+                "support.constant.handlebars"
+            ],
+            "settings": {
+                "foreground": "#00508a"  //F92672//0b5077//005f96
+            }
+        },
+        {
+            "scope": [
+                "keyword",
+                "storage.modifier",
+                "storage.type",
+                "variable.parameter"
+            ],
+            "settings": {
+                "foreground": "#d73a49"
+            }
+        },
+        {
+            "scope": [
+                "entity.name.type",
+                "entity.other.inherited-class",
+                "meta.function-call",
+
+                // HTML/XML
+                "entity.other.attribute-name",
+
+                // Shell
+                "entity.name.function.shell"
+            ],
+            "settings": {
+                "foreground": "#032f62"//032f62//031e3d//073642
+            }
+        },
+        {
+            "scope": [
+                "entity.name.tag"
+            ],
+            "settings": {
+                "foreground": "#d73a49"
+            }
+        },
+        {
+            "name": "JSON String",
+            "scope": "meta.structure.dictionary.json string.quoted.double.json",
+            "settings": {
+                "foreground": "#d73a49"
+            }
+        },
+        {
+            "name": "Storage type",
+            "scope": "storage.type",
+            "settings": {
+                "fontStyle": "italic",
+            }
+        },
+        {
+            "name": "Inherited class",
+            "scope": "entity.other.inherited-class",
+            "settings": {
+                "fontStyle": "italic",
+            }
+        },
+        {
+            "name": "Function argument",
+            "scope": "variable.parameter",
+            "settings": {
+                "fontStyle": "italic",
+            }
+        },
+        {
+            "name": "Library class/type",
+            "scope": "support.type, support.class",
+            "settings": {
+                "fontStyle": "italic",
+            }
+        },
+    ]
+}

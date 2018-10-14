@@ -1,0 +1,29 @@
+{
+	"name": "theme-tangming",
+	"displayName": "%displayName%",
+	"description": "%description%",
+	"version": "1.0.0",
+	"publisher": "tangming",
+	"engines": {
+		"vscode": "*"
+	},
+	"contributes": {
+		"themes": [
+			{
+				"label": "Tangming Dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/tangming-dark.json"
+			},
+			{
+				"label": "Tangming Light",
+				"uiTheme": "vs",
+				"path": "./themes/tangming-light.json"
+			},
+			{
+				"label": "Tangming Middle",
+				"uiTheme": "vs",
+				"path": "./themes/tangming-middle.json"
+			}
+		]
+	}
+}
