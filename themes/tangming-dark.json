@@ -29,7 +29,7 @@
 		"editorIndentGuide.activeBackground": "#767771", 
 		"editorGroupHeader.tabsBackground": "#2e302a",  //剩余的页面栏
 		"editorGroup.dropBackground": "#41433980",
-		"tab.activeBackground": "#414339",
+		"tab.activeBackground": "#272822",
 		"tab.inactiveBackground": "#2e302a",  //未打开的标题栏
 		"tab.border": "#2e302a",  
 		"tab.inactiveForeground": "#ccccc7", // needs to be bright so it's readable when another editor group is focused
@@ -241,7 +241,7 @@
 			"scope": "entity.other.attribute-name",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#E6DB74"
+				"foreground": "#FD971F"
 			}
 		},
 		{

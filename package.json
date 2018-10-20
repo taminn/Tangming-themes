@@ -2,8 +2,9 @@
 	"name": "theme-tangming",
 	"displayName": "%displayName%",
 	"description": "%description%",
-	"version": "1.0.0",
-	"publisher": "tangming",
+	"version": "1.0.2",
+	"publisher": "Tangming",
+	"icon": "image/icno.jpg",
 	"engines": {
 		"vscode": "*"
 	},
@@ -20,9 +21,9 @@
 				"path": "./themes/tangming-light.json"
 			},
 			{
-				"label": "Tangming Middle",
+				"label": "Tangming Fairy",
 				"uiTheme": "vs",
-				"path": "./themes/tangming-middle.json"
+				"path": "./themes/tangming-fairy.json"
 			}
 		]
 	}
