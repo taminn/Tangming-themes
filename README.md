@@ -1,12 +1,11 @@
-## The Theme fit C/C++,I hope you like it!
-
->Dark theme based on Monokai theme
+>dark theme based on Monokai
 
 ![](https://r.photo.store.qq.com/psb?/V11xgy404KIR1n/fXJN.O6YKFnzm6JIX1Igmt0j4jBs5sk3EDkb9BODpPw!/r/dCIBAAAAAAAA)
->Fairy theme based on Solarized theme
+>fairy theme based on Solarized
 
-![](https://r.photo.store.qq.com/psb?/V11xgy404KIR1n/F84.avb1XBZmXSJEz0itAyGJukkwvqP43D*Uh4oKiHI!/r/dBAAAAAAAAAA)
->Light theme based on Github theme
+![](https://s289.photo.store.qq.com/psb?/V11xgy404KIR1n/DW*2U7KBEldfIA0JJ7UlEc2wmLBPkA9dbhY*.SiGJE4!/r/dCEBAAAAAAAA)
 
-![](https://r.photo.store.qq.com/psb?/V11xgy404KIR1n/sOsmhNaFLSCz1LHD14mLBWqcJZ*owMT1sy4kpyD*rJU!/r/dCIBAAAAAAAA)
->Thinks for your download
+>light theme based on Github
+
+![](https://s290.photo.store.qq.com/psb?/V11xgy404KIR1n/gsFyAK01xGX439vQTKBfplILZV6XkbFMlp2i0HWqvYg!/r/dCIBAAAAAAAA)
+>thinks for download

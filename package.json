@@ -2,7 +2,7 @@
 	"name": "theme-tangming",
 	"displayName": "%displayName%",
 	"description": "%description%",
-	"version": "1.0.2",
+	"version": "1.1.4",
 	"publisher": "Tangming",
 	"icon": "image/icno.jpg",
 	"engines": {
@@ -26,5 +26,10 @@
 				"path": "./themes/tangming-fairy.json"
 			}
 		]
+	},
+	"__metadata": {
+		"id": "4870bf03-80df-4364-b6a3-a41bba6068ef",
+		"publisherId": "89efad8f-a08d-45ad-b665-7643d38adb9e",
+		"publisherDisplayName": "Tang Ming-themes"
 	}
 }

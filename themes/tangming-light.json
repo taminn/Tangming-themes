@@ -4,14 +4,15 @@
     "colors": {
         
         ////////////////////////////////////////////////////////////////////////
-        "editor.background": "#fafaf9",
+        "editor.background": "#fcfcfa",
         "editor.foreground": "#24292e",
-        "editorLineNumber.foreground": "#ccc",
+        "editorLineNumber.foreground": "#aaa",
         "editorIndentGuide.background": "#eee",
         "editorBracketMatch.background": "#f1f8ff",
         "editorBracketMatch.border": "#c8e1ff",
-        "editor.lineHighlightBackground": "#fffbdd",
+        "editor.lineHighlightBackground": "#fcfcfa",
         "focusBorder": "#fafbfc",
+        "editor.selectionBackground": "#c5c2af",
 
         // Activitybar
         "activityBar.background": "#24292e",
@@ -19,11 +20,11 @@
         //"activityBar.foreground": "#000000",
 
         // Sidebar
-        "sideBar.background": "#f7f7f7",
+        "sideBar.background": "#fcfcfa",
         "sideBar.foreground": "#586069",
-        "sideBar.border": "#f7f7f7",
+        "sideBar.border": "#fcfcfa",
         "sideBarTitle.foreground": "#24292e", 
-        "sideBarSectionHeader.background": "#eee",
+        "sideBarSectionHeader.background": "#fcfcfa",
         "sideBarSectionHeader.foreground": "#24292e", 
 
         // Statusbar
@@ -41,7 +42,11 @@
         "tab.border":"#f3f3f3",
         "editorGroupHeader.tabsBackground": "#f3f3f3",  //剩余的页面栏
         "tab.inactiveBackground": "#f3f3f3",  //未打开的标题栏
-        "list.activeSelectionBackground":"#afcddb",
+        "list.hoverBackground": "#dddbcb88",
+        "list.focusBackground": "#dddbcb",
+        "list.activeSelectionBackground":"#dddbcb",
+        "list.activeSelectionForeground": "#24292e",
+        "list.inactiveSelectionBackground": "#fcfcfa",
         //////////////////////////////////////////////////////////
         
         

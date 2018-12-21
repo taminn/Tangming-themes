@@ -35,11 +35,11 @@
 
 		"selection.background": "#CCC4B0", //CCC4B0
 
-		"list.activeSelectionBackground": "#e9dbad",  //DFCA88//侧边栏选中标签
+		"list.activeSelectionBackground": "#D1CBB8",  //DFCA88//侧边栏选中标签e9dbad
 		"list.activeSelectionForeground": "#6C6C6C",
-		"list.focusBackground": "#DFCA8866",
-		"list.hoverBackground": "#DFCA8844",
-		"list.inactiveSelectionBackground": "#D1CBB8",
+		"list.focusBackground": "#D1CBB8",  //EEE8D5
+		"list.hoverBackground": "#d1cbb877",  //DFCA8844
+		"list.inactiveSelectionBackground": "#D1CBB8",  //D1CBB8
 		"list.highlightForeground": "#B58900",
 
 		// "scrollbar.shadow": "",
