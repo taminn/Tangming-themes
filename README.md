@@ -1,6 +1,6 @@
 ### In fact,so much color can't bring more discrimination,So I dropped some vscode colors and lines to make the UI more concise.
 
-### If you find the theme have any question or bad place and you can feedback at github or clone to your computer to requir by yourself.
+### If you find the theme have any question or bad place and you can feedback at github or clone to your computer to change by yourself.
 ---
 
 ### It include three themes
