@@ -2,8 +2,8 @@
 	"name": "theme-tangming",
 	"displayName": "%displayName%",
 	"description": "%description%",
-	"version": "1.1.4",
-	"publisher": "Tangming",
+	"version": "1.1.8",
+	"publisher": "TangMing",
 	"icon": "image/icno.jpg",
 	"engines": {
 		"vscode": "*"
@@ -31,5 +31,6 @@
 		"id": "4870bf03-80df-4364-b6a3-a41bba6068ef",
 		"publisherId": "89efad8f-a08d-45ad-b665-7643d38adb9e",
 		"publisherDisplayName": "Tang Ming-themes"
-	}
+	},
+	"repository": {"url": "https://github.com/taminn/tangming-themes"}
 }

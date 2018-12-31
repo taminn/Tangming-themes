@@ -1,11 +1,14 @@
+In fact,so much color can't bring more discrimination
+I dropped the vscode colors and lines to make the UI more concise
+
 >dark theme based on Monokai
 
-![](https://r.photo.store.qq.com/psb?/V11xgy404KIR1n/fXJN.O6YKFnzm6JIX1Igmt0j4jBs5sk3EDkb9BODpPw!/r/dCIBAAAAAAAA)
+![](https://r.photo.store.qq.com/psb?/V11xgy404KIR1n/RjXf47YuVh5Gbmp0ugeYGzFRQWGltzcKx2qce19GqiQ!/r/dL4AAAAAAAAA)
 >fairy theme based on Solarized
 
-![](https://s289.photo.store.qq.com/psb?/V11xgy404KIR1n/DW*2U7KBEldfIA0JJ7UlEc2wmLBPkA9dbhY*.SiGJE4!/r/dCEBAAAAAAAA)
+![](https://r.photo.store.qq.com/psb?/V11xgy404KIR1n/.c8d9speuVcnMytUInxJ.lAEFEDfgwjhnydSaseGb8g!/r/dL8AAAAAAAAA)
 
 >light theme based on Github
 
-![](https://s290.photo.store.qq.com/psb?/V11xgy404KIR1n/gsFyAK01xGX439vQTKBfplILZV6XkbFMlp2i0HWqvYg!/r/dCIBAAAAAAAA)
+![](https://r.photo.store.qq.com/psb?/V11xgy404KIR1n/APZVvtaMh1H792UcrkOwLpq*uSMsiBRtEooOy*uLPSI!/r/dLYAAAAAAAAA)
 >thinks for download
