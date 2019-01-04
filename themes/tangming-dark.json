@@ -152,13 +152,6 @@
 			}
 		},
 		{
-			"name": "Built-in constant",
-			"scope": "constant.language",
-			"settings": {
-				"foreground": "#eeeeee"
-			}
-		},
-		{
 			"name": "User-defined constant",
 			"scope": "constant.character, constant.other",
 			"settings": {
@@ -412,6 +405,15 @@
 			"scope": "variable.language",
 			"settings": {
 				"foreground": "#F92672",
+			}
+		},
+		{
+			"name": "Built-in constant",
+			"scope": [
+				"constant.language",
+			],
+			"settings": {
+				"foreground": "#ddd487",
 			}
 		}
 	]
