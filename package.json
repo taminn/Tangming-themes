@@ -2,7 +2,7 @@
 	"name": "theme-tangming",
 	"displayName": "%displayName%",
 	"description": "%description%",
-	"version": "1.1.8",
+	"version": "1.1.9",
 	"publisher": "TangMing",
 	"icon": "image/icno.jpg",
 	"engines": {
@@ -24,6 +24,11 @@
 				"label": "Tangming Fairy",
 				"uiTheme": "vs",
 				"path": "./themes/tangming-fairy.json"
+			},
+			{
+				"label": "Tangming Dark Plus",
+				"uiTheme": "vs-dark",
+				"path": "./themes/tangming-dark-plus.json"
 			}
 		]
 	},
